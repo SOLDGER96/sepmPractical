@@ -29,3 +29,5 @@ Step 8: Get your repo info and merge files
 
 Step 9: Finally push our files !
 	git push origin main
+
+Note: For the first time use step 7 and 8 then from next time can skip these steps
