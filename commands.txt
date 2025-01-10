@@ -1,0 +1,93 @@
+    1  git init
+    2  git config --global user.name “ShravitaKelkar15”
+    3  git config --global user.email "shravitakelkar@gmail.com”
+    4  git init
+    5  git config --global user.name “ShravitaKelkar15”
+    6  git config --global user.email “shravitakelkar@gmail.com”
+    7  git init
+    8  cd Desktop/
+    9  cd SEPM/
+   10  git add .
+   11  git push origin main
+   12  cd SEPM/
+   13  cd Desktop/
+   14  git add .
+   15  git add hello.py
+   16  git push origin main
+   17  git branch
+   18  git checkout master
+   19  git checkout main
+   20  git log
+   21  git add .
+   22  git commit -m "Initial commit"
+   23  git push origin main
+   24   git add .
+   25  git commit -m "Initial commit"
+   26  git branch -r
+   27  git remote add origin <your-remote-repository-URL>
+   28  git remote add origin <https://github.com/ShravitaKelkar15/SEPM>
+   29  git remote add origin https://github.com/ShravitaKelkar15/SEPM
+   30  git remote -v
+   31  git push origin main
+   32  git add .
+   33  git push origin main
+   34  ls
+   35  cd
+   36  pwd
+   37  mkdir sepmPractical
+   38  ls | grep "sepmPractical"
+   39  cd sepmPractical/
+   40  pwd
+   41  pwd
+   42  ls -a
+   43  git init
+   44  ls
+   45  ls -a
+   46  ls -la
+   47  git config --global user.name "{Tanmay Gawade}"
+   48  git config --global user.email "{soldger96@gmail.com}"
+   49  git status 
+   50  vim test.cpp
+   51  ls
+   52  cat test.cpp 
+   53  git status 
+   54  git add test.cpp 
+   55  git status 
+   56  git status 
+   57  git status 
+   58  vim test2.cpp
+   59  git status 
+   60  git add .
+   61  ls -la
+   62  git status 
+   63  git commit -m "{File 2 added}"
+   64  git status 
+   65  vim test.cpp 
+   66  git status 
+   67  git commit -m "{File updated}"
+   68  git push origin main
+   69  git push sepmPractical main
+   70  git remote add origingin https://github.com/SOLDGER96/sepmPractical.git
+   71  git push origin main
+   72  git remote add origingin https://github.com/SOLDGER96/sepmPractical.git
+   73  git push origin main
+   74  git remote add origin https://github.com/SOLDGER96/sepmPractical.git
+   75  git push origin main
+   76  git push origin main
+   77  ls
+   78  git remote add origin https://github.com/SOLDGER96/sepmPractical.git
+   79  git push origin main
+   80  git fetch origin
+   81  git merge origin/main
+   82  git push origin main
+   83  git merge origin/main
+   84  git merge origin/main --allow-unrelated-histories
+   85  git merge origin/main --allow-unrelated-histories
+   86  git push origin main
+   87  git fetch origin
+   88  history 
+   89  history | >> commands.txt
+   90  ls
+   91  cat commands.txt 
+   92  rm -rf commands.txt 
+   93  history > commands.txt
