@@ -1,0 +1,31 @@
+Step 1: Create a dir and move to that dir
+	mkdir sepmPractical
+	cd sepmPractical
+
+Step 2: Initialise git command and provide username and email
+	git init
+	git config --global user.name "{Tanmay Gawade}"
+	git config --global user.email "{soldger96@gmail.com}"
+
+Step 3: Check current git status
+	git status
+
+Step 4: Create Some files to be added to your git repository
+	vim test.cpp
+	vim test2.cpp
+
+Step 5: Add this file to git
+	git add test.cpp
+
+Step 6: Commit the changes to Git
+	git commit -m "{Add msg to be displayed}"
+
+Step 7: Add your repository link to git bash
+	git remote add origin <your github repo>
+
+Step 8: Get your repo info and merge files
+	git fetch origin
+	git merge origin/main --allow-unrelated-histories
+
+Step 9: Finally push our files !
+	git push origin main
